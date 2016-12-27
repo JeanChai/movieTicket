@@ -1,4 +1,0 @@
-Manifest-Version: 1.0
-Main-Class: Login
-Class-Path: . mysql-connector-java-5.1.17-bin.jar
-Created-By: chaiqin houyuanyuan wang60
